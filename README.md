@@ -1,55 +1,65 @@
-# Call-Center-Dashboard-Project
-Call Center Performance Analysis using Power BI
-Call Center Performance Analysis Dashboard
+# 📊 Call Center Performance Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
+This project analyzes call center operations data to uncover insights into customer service performance, agent efficiency, and customer satisfaction.
 
-This project analyses call center performance data to identify key trends in customer service operations, agent performance, and customer satisfaction. The goal is to provide actionable insights that can improve response time, reduce abandoned calls, and enhance overall customer experience.
-________________________________________
-🎯 Objectives
-•	Analyze call volume trends over time
-•	Evaluate agent performance
-•	Identify factors affecting customer satisfaction
-•	Monitor call resolution and abandonment rates
-________________________________________
-🛠 Tools Used
-•	Microsoft Excel (Data Cleaning)
-•	Power BI (Data Visualization & Dashboarding)
-________________________________________
-📊 Key Metrics (KPIs)
-•	Total Calls
-•	Calls Answered
-•	Calls Abandoned
-•	Average Satisfaction Rating
-•	Average Speed of Answer
-________________________________________
-📈 Dashboard Features
-•	Call trends over time (line chart)
-•	Agent performance comparison (bar chart)
-•	Customer satisfaction by agent
-•	Answered vs abandoned calls
-•	Interactive filters (by date and agent)
-________________________________________
-🔍 Key Insights
-•	Call volume fluctuated across the quarter, with a peak on January 11 (84 calls) and the lowest on March 30 (25 calls)
-•	Agent performance varied, with Jim handling the highest volume (666 calls) and Stewart the lowest (582 calls)
-•	Abandoned calls remain a concern, highlighting opportunities to improve response efficiency
-•	Customer satisfaction scores were relatively balanced, with Becky (33.57%), Greg (33.42%), and Jim (33.01%) leading the Top 3
-________________________________________
-💡 Recommendations
-•	Allocate more agents during peak periods to reduce waiting time
-•	Provide additional training for agents with lower satisfaction ratings
-•	Optimize call distribution to balance workload among agents
-•	Improve response time to reduce abandoned calls
-________________________________________
-📷 Dashboard Preview
+The dashboard was built using Power BI to help stakeholders make data-driven decisions.
 
-<img width="1258" height="708" alt="Telcom Call Center Dashboard" src="https://github.com/user-attachments/assets/508a4dd4-73c6-4223-b214-37fc17cb0a9d" />
+---
 
-📁 Files Included
-Power BI Dashboard (.pbix)
-Dataset (.csv)
-Screenshots
-🚀 About Me
+## 🎯 Business Problem
+Call centers often struggle with:
+- High call abandonment rates
+- Low customer satisfaction
+- Inefficient response times
 
-Aspiring Data Analyst skilled in Excel, SQL, and Power BI, focused on turning data into actionable insights.
+This project aims to identify key drivers of these issues.
+
+---
+
+## 🛠 Tools & Skills Used
+- Power BI (Data Visualization)
+- Excel (Data Cleaning)
+- DAX (Measures & KPIs)
+- Data Analysis
+
+---
+
+## 📊 Key Metrics
+- Total Calls: 5,000
+- Answered Calls: 4,054
+- Abandoned Calls: 946
+- Resolution Rate: 81%
+- Customer Satisfaction: 3.40 / 5
+
+---
+
+## 🔍 Key Insights
+- High wait times led to increased call abandonment  
+- Customer satisfaction dropped during peak hours  
+- Some agents handled more calls but had lower satisfaction ratings  
+
+---
+
+## 💡 Recommendations
+- Increase staffing during peak periods  
+- Reduce wait time to improve satisfaction  
+- Provide training for low-performing agents  
+
+---
+
+## 📷 Dashboard Preview
+<img width="1258" height="708" alt="Telcom Call Center Dashboard" src="https://github.com/user-attachments/assets/6faa0c8b-8d4c-4ac1-b20c-8e26d39d1809" />
+
+
+---
+
+## 📁 Project Files
+- Power BI Dashboard (.pbix)
+- Dataset (.csv)
+- Screenshots
+
+---
+
+## 🚀 About Me
+Aspiring Data Analyst skilled in Excel, SQL, and Power BI. Passionate about turning data into actionable insights.
